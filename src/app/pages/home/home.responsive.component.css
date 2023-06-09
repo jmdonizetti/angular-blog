@@ -1,0 +1,19 @@
+@media screen and (max-width:840px) {
+  .container__articles{
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+  .articles__others{
+    margin-top: -250px;
+  }
+}
+
+@media screen and (max-width:414px) {
+  .container__articles{
+    flex-direction: column;
+    align-items: center;
+
+  }
+}
