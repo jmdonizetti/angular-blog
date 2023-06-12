@@ -8,7 +8,7 @@
   flex-direction: row;
 }
 
-.small-card__photo > img {
+.small-card__photo > a > img {
   width: 250px;
   height: 200px;
   min-width: 200px;
